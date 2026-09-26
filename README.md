@@ -1,2 +1,2 @@
 # ATM-machine
-A simple program showing how an ATM behaves and transactions
+A simple program showing how ATM transactions tend to be
